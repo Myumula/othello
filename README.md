@@ -1,4 +1,4 @@
 # othello
 Othello AI
 
-mm goodCancel changes
+mm good
