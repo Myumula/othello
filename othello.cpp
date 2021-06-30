@@ -324,11 +324,11 @@ private:
         }
         int xW = 5000;
         int cW = 2500;
-        int psW = 2000; // 2000
+        int psW = 2000;
         int pxW = 2000;
         int pcW = 1000;
         int fW = 200;
-        int eW = 50; // 50
+        int eW = 50;
         int mW = 10 * (100 - (ob.disc_count[ob.BLACK] + ob.disc_count[ob.WHITE]));
         int value = pW * piececount + sW * sumis + xW * Xs + cW * Cs
             + psW * potentialSumis + pxW * potentialXs + pcW * potentialCs
