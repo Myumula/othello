@@ -5,7 +5,7 @@
 #include <cstdlib>
 #include <ctime>
 #include <algorithm> 
-//#include <climits>
+#include <climits>
 #define DEBUG 0
 #define BATTLE 1
 
