@@ -2,7 +2,8 @@
 Othello AI
 
 C:\Users\user\Downloads\Mini-Project 3 Package_1\pj
-main.exe hw1.exe baseline4.exe
+main.exe hw1.exe baseline4.exe (Windows 10)
+./main othello baseline4 (Ubuntu - Linux)
 
 depth 6 + X + C:
 1. weight modified: 5000->20000, 2000->8000
