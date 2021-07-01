@@ -1,10 +1,11 @@
-﻿#include <iostream>
+#include <iostream>
 #include <fstream>
 #include <array>
 #include <vector>
 #include <cstdlib>
 #include <ctime>
 #include <algorithm> 
+#include <climits>
 #define DEBUG 0
 #define BATTLE 1
 
